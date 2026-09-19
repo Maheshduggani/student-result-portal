@@ -20,8 +20,6 @@
 * HTML/CSS
 * Git & GitHub
 
-📂 Project Structure
-
 
 ## 📂 Project Structure
 

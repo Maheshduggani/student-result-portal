@@ -23,6 +23,9 @@
 📂 Project Structure
 
 
+## 📂 Project Structure
+
+```
 student-result-portal/
 ├── src/
 │   ├── main/
@@ -31,6 +34,8 @@ student-result-portal/
 │   └── test/
 ├── pom.xml
 └── README.md
+```
+
 
 
 ⚙️ How to Run
